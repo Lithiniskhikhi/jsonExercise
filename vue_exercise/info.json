@@ -1,0 +1,34 @@
+{"people" : [
+    {
+      "id": 8                                                                                                               ,
+       "firstName": "Rabia",
+       "lastName": "Haucha",
+       "age": 20
+  },
+ 
+  {
+    
+    "id": 4,
+    "firstName": "Uthmaan",
+    "lastName": "Samsodien",
+    "age": 21},
+  {
+    
+  },
+  {
+       "id": 6,
+       "firstName": "Kamvelihle",
+       "lastName": "Sikalana",
+       "age": 79
+  },
+  
+  {
+    "id": 9,
+       "firstName": "Lithini",
+       "lastName": "Skhikhi",
+       "age": 19
+  },
+  {
+    
+  }
+]}
